@@ -23,5 +23,3 @@ Impact Potential:
 - Reduced carbon footprint and resource consumption by shifting individuals' behaviors over time.
 
 - Quantifiable sustainability impact can be estimated by tracking metrics like energy use, miles driven, dollars donated, etc. before and after chatbot interactions.
-
-Let me know if you would like me to expand on any part of this proposal further! I'm happy to incorporate additional details as needed.
