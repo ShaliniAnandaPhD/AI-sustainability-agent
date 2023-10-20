@@ -1,5 +1,3 @@
-Here is a proposal for a project using Langchain agents to promote sustainability:
-
 Project Title: Using AI Assistants to Encourage Sustainable Behaviors
 
 Overview: This project will develop AI chatbot agents that can have natural conversations with people to educate them about sustainability and encourage more environmentally friendly actions in their daily lives. The chatbots will be optimized for empathetic dialogue and providing personalized recommendations tailored to the user's specific contexts and motivations.
