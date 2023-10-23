@@ -8,8 +8,6 @@ Technical Approach:
 
 - Create conversation templates for common scenarios like providing tips to reduce home energy use, suggesting taking public transit or carpooling instead of driving solo, helping meal plan to reduce food waste, etc. 
 
-- Train open-domain chatbot models like Claude on the knowledge base and conversation templates using reinforcement learning from human feedback to optimize for natural, empathetic dialogue.
-
 - Build a robust conversational interface that people can interact with via voice or text on platforms like mobile apps, smart speakers, websites, etc. 
 
 - Analyze conversation logs to continuously improve the chatbots' knowledge and conversational abilities.
